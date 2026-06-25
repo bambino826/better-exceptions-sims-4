@@ -9,7 +9,7 @@ The **🔧 Better Exceptions Sims 4** is the most powerful error detection and t
 
 <div align="center">
 
-[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/better-exceptions-sims-4)
+[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/better-exceptions-sims-4)
 
 </div>
 
@@ -109,7 +109,7 @@ You need to know what's broken. You need to fix it fast. You need a tool that te
 6. **🎮 Launch The Sims 4** — open the game
 7. **🔍 Click notification** — when error occurs, click for report
 
-[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/better-exceptions-sims-4)
+[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/better-exceptions-sims-4)
 
 ### Reading an Error Report
 
@@ -204,7 +204,7 @@ Stop guessing what's wrong with your game. **Better Exceptions Sims 4** instantl
 
 <div align="center">
 
-[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/better-exceptions-sims-4)
+[![Download Better Exceptions Sims 4](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/better-exceptions-sims-4)
 
 **Version 4.6.1** — Fix Sims 4 errors instantly. Free forever.
 
